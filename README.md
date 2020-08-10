@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Hangman game created using ReactJS and React Hooks from Bard Taversy course
-[Live](https://adoring-carson-624a00.netlify.app/)
+
+## [Live](https://adoring-carson-624a00.netlify.app/)
 
 ## Available Scripts
 
